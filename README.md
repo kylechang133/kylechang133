@@ -1,3 +1,3 @@
 - 👋 Hi, im @kylechang133
-- 🌱 I am a second year UofA student studying CS
+- 🌱 I am a second year UofA student studying Computer Science and Mathematics
 - 📫 You can reach me at my email: kchang3@ualberta.ca
